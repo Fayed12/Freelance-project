@@ -1,6 +1,6 @@
 # Freelance-project
 My first freelance project 
-##the component 
+## the component 
 1- Make a background for the whole page 
 2- Create a full page title and a box underneath it containing the contents. 
 3- Place the main image of the cake on top beautifully. 
