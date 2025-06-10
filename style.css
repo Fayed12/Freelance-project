@@ -7,6 +7,7 @@
 }
 body{
     background-color: #FFF5E1;
+    font-size: 16px;
 }
 ul{
     list-style: none;
@@ -46,7 +47,7 @@ ul{
 }
 @media (max-width: 768px){
     .header{
-        font-size: 17px;
+        font-size: 16px;
     }
 }
 .box{
@@ -105,6 +106,7 @@ ul{
 .recipe-box h2 {
     margin-bottom: 20px;
     padding-bottom: 20px;
+    font-size: 16px;
     border-bottom: 2px solid #9d7a62;
     display: flex;
     justify-content: space-between;
@@ -158,7 +160,7 @@ input:checked + .toggle-slider:before {
 }
 .toggle-label {
     color: #6B4226;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
 }
 @media (max-width:992px) {
@@ -187,6 +189,7 @@ input:checked + .toggle-slider:before {
 }
 .ingredients-list li {
     margin-bottom: 15px;
+    font-size: 16px;
 }
 .instructions-list {
     list-style-type: decimal;
@@ -194,6 +197,7 @@ input:checked + .toggle-slider:before {
     margin: 0;
 }
 .instructions-list li {
+    font-size: 16px;
     margin-bottom: 20px;
 }
 @media (max-width: 768px) {
